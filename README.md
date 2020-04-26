@@ -9,7 +9,7 @@ Full Video on my Google Drive : https://lnkd.in/gyHiqqv
 GitHub Repository : https://lnkd.in/gRvnbHk
 ============================
 
-Loop link : https://lnkd.in/gw_th2u
+LinkedIn link : https://lnkd.in/gw_th2u
 ============================
 
 My Blog : 
