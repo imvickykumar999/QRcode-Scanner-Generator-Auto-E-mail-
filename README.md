@@ -3,6 +3,8 @@
 TITLE : QRcode Scanner & Generator (Auto E-mail)
 --------------------------------------------------------
 
+Image : ![image.png](attachment:image.png)
+
 Full Video on my Google Drive : https://lnkd.in/gyHiqqv
 ============================
 
