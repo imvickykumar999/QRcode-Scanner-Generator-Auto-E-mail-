@@ -21,7 +21,7 @@ Hello LinkedIn Users,
         In this project, any Text can be Converted into an Image of QRcode form.... 
         which will then further E-mailed to Destination ID.
 
-    Also, You can Scan QRcode from either Mobile camera or Laptop WebCam, coded in OpenCV (python).
+    Also, this code can Scan QRcode from either Mobile camera or Laptop WebCam, coded in OpenCV (python).
     In this project, it will Generate QRcode from Text,
     then it will mail it my friends and bosses. 
     Also, it can Scan QRcode via laptop webcam, 
